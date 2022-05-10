@@ -1,6 +1,6 @@
 ![cover](.github/feedback-widget.gif)
 
-Link para acessar: <a href="https://nlw-feedback-widget-ochre.vercel.app/" alt="link do projeto">https://nlw-feedback-widget-ochre.vercel.app/</a>
+Link para acessar: <a href="https://nlw-feedback-widget-ochre.vercel.app/" alt="link do projeto" target="_blank">https://nlw-feedback-widget-ochre.vercel.app/</a>
 
 ## 💻 Projeto
 Widget desenvolvido para recebimento de feedbacks, multi-plataforma.
