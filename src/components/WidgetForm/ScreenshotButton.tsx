@@ -30,7 +30,7 @@ export function ScreenshotButton({
     setTimeout(() => {
       setIsTakingScreenshot(false);
       onScreenshotTook(base64image);
-    }, 3500);
+    }, 2500);
   }
 
   if (screenshot) {
