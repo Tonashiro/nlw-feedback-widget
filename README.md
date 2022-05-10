@@ -32,9 +32,12 @@ Widget desenvolvido para recebimento de feedbacks, multi-plataforma.
 ## :hammer_and_wrench: Features 
 
 -   [X] - Envio de diferentes tipos de feedbacks
--   [X] - Tema Dark/Light
 -   [X] - Multi-plataforma 
 
+### NextLevel da aplicação(mudanças pessoais):
+-   [ ] - Tema Dark/Light
+-   [ ] - Criar outras rotas da API
+-   [ ] - Criar cards para exibir os feedbacks
 
 ## Executando o projeto
 
