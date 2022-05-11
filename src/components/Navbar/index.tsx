@@ -29,7 +29,7 @@ export function Navbar() {
         className="h-12 w-12 rounded-full bg-zinc-500 hover:bg-zinc-600 dark:bg-darkMode-component dark:hover:bg-zinc-500 transition-colors flex items-center justify-center"
       >
         {isDarkMode ? (
-          <Sun weight="bold" className="w-5 h-5" />
+          <Sun weight="bold" className="w-5 h-5 animate-pulse" />
         ) : (
           <Moon weight="bold" className="w-5 h-5 animate-pulse" />
         )}
