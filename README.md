@@ -29,9 +29,9 @@ Widget desenvolvido para recebimento de feedbacks, multi-plataforma.
 
 ### NextLevel da aplicação(mudanças pessoais):
 
--   [ ] - Tema Dark/Light
+-   [X] - Tema Dark/Light
 -   [ ] - Criar outras rotas da API
--   [ ] - Criar cards para exibir os feedbacks
+-   [X] - Criar cards para exibir os feedbacks
 
 ## Executando o projeto
 
