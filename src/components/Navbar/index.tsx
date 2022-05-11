@@ -24,7 +24,7 @@ export function Navbar() {
   }, [isDarkMode]);
 
   return (
-    <nav className="bg-zinc-300 dark:bg-darkMode-bg h-[72px] w-full fixed z-10 px-6 py-5 flex items-center justify-end shadow-sm shadow-zinc-400 rounded-br-[40px] rounded-bl-[40px]">
+    <nav className="bg-zinc-300 dark:bg-darkMode-bg h-[72px] w-full fixed z-10 pr-40 flex items-center justify-end shadow-sm shadow-zinc-400 rounded-br-[40px] rounded-bl-[40px]">
       <Switch
         onChange={toggleDarkMode}
         checked={isDarkMode}

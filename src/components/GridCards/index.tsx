@@ -5,7 +5,7 @@ import thoughtImage from "../../assets/thought.svg";
 
 export function GridCards() {
   return (
-    <div className="pt-[116px] px-6 h-auto relative flex flex-col gap-6">
+    <div className="pt-[116px] px-40 h-auto relative flex flex-col gap-6">
       <div className="w-full h-28 bg-zinc-300 dark:bg-darkMode-bg text-zinc-900 dark:text-zinc-100 transition-colors flex items-center justify-center text-center rounded-lg p-4">
         <p className="lg:text-2xl">
           Experimente enviar um feedback de um <i>bug</i> na aplicação!
