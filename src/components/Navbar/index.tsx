@@ -23,7 +23,7 @@ export function Navbar() {
   }, [isDarkMode]);
 
   return (
-    <nav className="bg-zinc-300 dark:bg-darkMode-bg h-[72px] w-full fixed z-10 pr-40 flex items-center justify-end shadow-sm shadow-zinc-400 rounded-br-[40px] rounded-bl-[40px]">
+    <nav className="bg-zinc-300 dark:bg-darkMode-bg h-[72px] w-full fixed z-10 pr-6 md:pr-20 lg:pr-40 flex items-center justify-end shadow-sm shadow-zinc-400 rounded-br-[40px] rounded-bl-[40px]">
       <button
         onClick={toggleDarkMode}
         className="h-12 w-12 rounded-full bg-zinc-500 hover:bg-zinc-600 dark:bg-darkMode-component dark:hover:bg-zinc-500 transition-colors flex items-center justify-center"
