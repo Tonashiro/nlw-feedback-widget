@@ -42,7 +42,7 @@ Em seguida, inicie o servidor do projeto.
 npm run start
 ```
 
-Após iniciado o servidor, em outro terminal, retorne para a pasta anterior e inicie o projeto web.
+Após iniciado o servidor, em outro terminal, retorne para a pasta anterior e inicie o projeto WEB.
 ```cl
 npm run dev
 ```
